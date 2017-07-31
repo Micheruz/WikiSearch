@@ -1,0 +1,58 @@
+hr {
+  background:lightgrey;
+  height:1px;
+  display:block;
+  margin-top:0;
+}
+a {
+  color:orange !important;
+  font-weight: bold;
+}
+a:hover{
+  color:orange !important;
+}
+i {
+  color: orange;
+}
+#random {
+  color: orange;
+  margin: 10px auto;
+  display: block;
+    text-decoration: none;
+}
+#random:hover {
+  text-decoration: none !important;
+}
+.wiki{
+  padding-top:50px;
+  font-family: times new roman,serif;
+
+}
+.row {
+  margin: 0;
+}
+.snip{
+  font-family: times new roman,serif;
+  border: 2px solid lightgrey;
+  padding: 15px;
+  margin-top:20px;
+  margin-left: 10px;
+  border-radius: 15px;
+  position: relative;
+}
+#list{
+  padding-bottom: 40px;
+  display:none;
+  }
+.read{
+  font-size:16px;
+  background: white;
+  display:block;
+}
+#search:hover{
+  color:white;
+}
+.snip:hover {
+  border-left: 5px solid grey;
+
+}
